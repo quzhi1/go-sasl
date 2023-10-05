@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/emersion/go-sasl"
+	"github.com/quzhi1/go-sasl"
 )
 
 func TestNewXoauth2Client(t *testing.T) {
